@@ -2,7 +2,7 @@
 - 👀 I’m interested in climate change and programming, especially in R.  
 - 🌱 I’m currently writing my master thesis while working at the University of Bonn.
 - 💞️ I’m looking to collaborate on anything R related for the moment.
-- ⚡ I started becoming a physiotherapist, switched to agricultural science and now I'm a programmer. During my studies I worked - among other things - on classifying crops and weeds with drone and airplane images and determining the safe "chill portions" at which crops such as fruit trees can still flower and bear fruit. 
+- ⚡ I began studying to be a physiotherapist, changed to study agricultural science, and am currently a technican at an institute of the University of Bonn. Among the topics I worked on during my studies were using drone and airplane images to categorize crops and weeds, as well as figuring out the safe chillportions at which fruit trees can still flower and bear fruit. 
 
 
 
